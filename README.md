@@ -1,5 +1,7 @@
 # angular-gihub-page
 
+[Link to angular-github-page](https://codingwithstrangers.github.io/angular-github-page/)
+
 I want an easy way to deploy an angular application as a github page to render
 and sort some markdown files. It can be used to generate a static webpage for 
 the github organization
